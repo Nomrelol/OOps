@@ -13,7 +13,6 @@
 	Coordinates of p1+p2 are: 8, 11
 */
 
-
 #include<iostream>
 using namespace std;
 

@@ -9,7 +9,6 @@
 	long totalsecs = t1.hours*3600 + t1.minutes*60 + t1.seconds
 */
 
-
 #include<iostream>
 using namespace std;
 struct Time{

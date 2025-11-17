@@ -1,3 +1,4 @@
+
 /*
     Question 4.1
     A phone number, such as (212) 767-8900, can be thought of as having three parts: the
@@ -10,8 +11,6 @@
     My number is (212) 767-8900
     Your number is (415) 555-1212
 */
-
-
 
 #include<iostream>
 using namespace std;
